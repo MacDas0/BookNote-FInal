@@ -1,0 +1,92 @@
+/* 
+  Localizable.strings
+  BookNote
+
+  Created by Maciej Daszkiewicz on 12/01/2024.
+  
+*/
+
+/* GENERAL PURPOSE */
+"%lld" = "%lld";
+"BookNote" = "BookNote";
+"Search" = "Search";
+"%@ pages" = "%@ pages";
+"Mark as read" = "Mark as read";
+"Delete book" = "Delete book";
+"Delete note" = "Delete note";
+"Change cover" = "Change cover";
+"" = "";
+
+/* TABBARS */
+"Books" = "Books";
+"Notes" = "Notes";
+"More" = "More";
+
+/* ADDBOOK SHEET */
+"New book..." = "New book...";
+"Add manually" = "Add manually";
+"Scan barcode" = "Scan barcode";
+"Add from kindle" = "Add from kindle";
+"Search online" = "Search online";
+"Pick a book" = "Pick a book";
+
+/* ADDNOTE SHEET */
+"New note..." = "New note...";
+"Idea" = "Idea";
+"Action" = "Action";
+"Quote" = "Quote";
+"Reflection" = "Reflection";
+"Summary" = "Summary";
+
+/* NOTESVIEW */
+"All" = "All";
+"Reflections" = "Reflections";
+"Quotes" = "Quotes";
+"Actions" = "Actions";
+"Ideas" = "Ideas";
+"Summaries" = "Summaries";
+
+/* BOOKVIEW */
+"timer" = "timer";
+"stopwatch" = "stopwatch";
+"START READING" = "START READING";
+
+/* NOTEVIEW */
+"Start writing..." = "Start writing...";
+"No title" = "No title";
+
+/* TIMER/STOPWATCHVIEW */
+"%@:%@,%@" = "%1$@:%2$@,%3$@";
+
+/* GOOGLEBOOKS */
+"Search Books" = "Search Books";
+"Google Books" = "Google Books";
+
+/* MANUALADD */
+"Title" = "Title";
+"Author" = "Author";
+"pages" = "pages";
+"Add to library" = "Add to library";
+"Search gallery" = "Search gallery";
+"Take photo" = "Take photo";
+"Deselect image" = "Deselect image";
+
+/* SCANADD */
+"Scan book barcode" = "Scan book barcode";
+
+/* KINDLEADD */
+"Kindle" = "Kindle";
+
+/* MORETAB */
+"BookNotes+" = "BookNotes+";
+"Notifications" = "Notifications";
+"Your account" = "Your account";
+"Preferences" = "Preferences";
+"Restore purchase" = "Restore purchase";
+"Security" = "Security";
+"Report issue" = "Report issue";
+"Suggest idea" = "Suggest idea";
+"Your data" = "Your data";
+"Redeem code" = "Redeem code";
+"Privacy" = "Privacy";
+"Terms and conditions" = "Terms and conditions";
